@@ -1,0 +1,46 @@
+Id,Tipo,Nombre,Raza,Género,Color,Comportamiento,Dueño
+1,Conejo,Floppy,Holland Lop,Hembra,Blanco,Amigable,Ana
+2,Hamster,Whiskers,Sirio,Macho,Marrón,Curioso,Juan
+3,Gato,Nala,Persa,Hembra,Crema,Tranquilo,Laura
+4,Hurón,Gizmo,Sable,Macho,Marrón,Jueguetón,Carlos
+5,Conejo,Thumper,Mini Rex,Macho,Gris,Energetico,Sofia
+6,Iguana,Spike,Verde,Macho,Verde,Tranquilo,Diego
+7,Hamster,Squeaky,Roborovski,Hembra,Blanco,Ágil,Marta
+8,Hurón,Luna,Albino,Hembra,Blanco,Curioso,Pedro
+9,Conejo,Binky,Angora,Hembra,Negro,Juguetón,Elena
+10,Iguana,Rex,Rhinoceros,Macho,Verde,Docil,Pablo
+11,Tortuga,Sheldon,Galápagos,Macho,Verde,Tranquilo,Andrea
+12,Hámster,Snickers,Dorado,Hembra,Dorado,Tímido,Sofía
+13,Cuy,Mocha,Abyssinian,Hembra,Marrón,Curioso,David
+14,Conejo,Oreo,Mini Lop,Macho,Negro,Cariñoso,Laura
+15,Rata,Whiskers,Dumbo,Macho,Gris,Inteligente,Juan
+16,Erizo,Sonic,Africano Pigmeo,Macho,Marrón,Solitario,Sofia
+17,Hámster,Luna,Enano Ruso,Hembra,Blanco,Ágil,Diego
+18,Conejo,Canela,Holandés,Hembra,Marrón,Curioso,Marta
+19,Perro,Max,Labrador,Macho,Dorado,Juguetón,Ana
+20,Gato,Luna,Siames,Hembra,Blanco,Tímido,Juan
+21,Perro,Rocky,Pastor Alemán,Macho,Negro,Activo,María
+22,Perro,Bella,Caniche,Hembra,Gris,Cariñoso,Carlos
+23,Perro,Rocky,Boxer,Macho,Marrón,Protector,Pablo
+24,Gato,Oliver,British Shorthair,Macho,Gris,Amistoso,Andrea
+25,Gato,Luna,Oriental,Hembra,Gris,Activa,David
+26,Perro,Max,Schnauzer,Macho,Gris,Inteligente,Laura
+27,Gato,Kitty,Bombay,Hembra,Negro,Misteriosa,Juan
+28,Perro,Rocky,Terrier,Macho,Blanco,Curioso,María
+29,Perro,Luna,Border Collie,Hembra,Negro,Trabajadora,Carlos
+30,Gato,Simba,Burmese,Macho,Marrón,Afectuoso,Ana
+31,Perro,Max,Dachshund,Macho,Marrón,Travieso,Diego
+32,Gato,Bella,Birman,Hembra,Blanco,Sereno,Marta
+33,Perro,Luna,Pomeranian,Hembra,Blanco,Elegante,Pedro
+34,Perro,Buddy,Bullmastiff,Macho,Marrón,Amistoso,Elena
+35,Gato,Leo,Turkish Van,Macho,Blanco,Juguetón,Pablo
+36,Perro,Max,Shar Pei,Macho,Gris,Leal,Andrea
+37,Gato,Luna,Siamese,Hembra,Marrón,Sociable,Sofía
+38,Perro,Rocky,Samoyed,Macho,Blanco,Alegre,David
+39,Perro,Bella,Maltese,Hembra,Blanco,Mimado,Laura
+40,Gato,Whiskers,Exotic Shorthair,Macho,Gris,Curioso,Juan
+41,Perro,Luna,Pug,Hembra,Beige,Juguetona,María
+42,Perro,Max,Australian Shepherd,Macho,Tricolor,Enérgico,Carlos
+43,Gato,Nala,Cornish Rex,Hembra,Blanco,Tierno,Ana
+44,Perro,Rocky,Siberian Husky,Macho,Gris,Independiente,Diego
+45,Gato,Luna,Devon Rex,Hembra,Blanco,Curioso,Marta

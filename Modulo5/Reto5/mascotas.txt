@@ -1,0 +1,45 @@
+Conejo,Floppy,Holland Lop,Hembra,Blanco,Amigable,Ana
+Hamster,Whiskers,Sirio,Macho,Marrón,Curioso,Juan
+Gato,Nala,Persa,Hembra,Crema,Tranquilo,Laura
+Hurón,Gizmo,Sable,Macho,Marrón,Jueguetón,Carlos
+Conejo,Thumper,Mini Rex,Macho,Gris,Energetico,Sofia
+Iguana,Spike,Verde,Macho,Verde,Tranquilo,Diego
+Hamster,Squeaky,Roborovski,Hembra,Blanco,Ágil,Marta
+Hurón,Luna,Albino,Hembra,Blanco,Curioso,Pedro
+Conejo,Binky,Angora,Hembra,Negro,Juguetón,Elena
+Iguana,Rex,Rhinoceros,Macho,Verde,Docil,Pablo
+Tortuga,Sheldon,Galápagos,Macho,Verde,Tranquilo,Andrea
+Hámster,Snickers,Dorado,Hembra,Dorado,Tímido,Sofía
+Cuy,Mocha,Abyssinian,Hembra,Marrón,Curioso,David
+Conejo,Oreo,Mini Lop,Macho,Negro,Cariñoso,Laura
+Rata,Whiskers,Dumbo,Macho,Gris,Inteligente,Juan
+Erizo,Sonic,Africano Pigmeo,Macho,Marrón,Solitario,Sofia
+Hámster,Luna,Enano Ruso,Hembra,Blanco,Ágil,Diego
+Conejo,Canela,Holandés,Hembra,Marrón,Curioso,Marta
+Perro,Max,Labrador,Macho,Dorado,Juguetón,Ana
+Gato,Luna,Siames,Hembra,Blanco,Tímido,Juan
+Perro,Rocky,Pastor Alemán,Macho,Negro,Activo,María
+Perro,Bella,Caniche,Hembra,Gris,Cariñoso,Carlos
+Perro,Rocky,Boxer,Macho,Marrón,Protector,Pablo
+Gato,Oliver,British Shorthair,Macho,Gris,Amistoso,Andrea
+Gato,Luna,Oriental,Hembra,Gris,Activa,David
+Perro,Max,Schnauzer,Macho,Gris,Inteligente,Laura
+Gato,Kitty,Bombay,Hembra,Negro,Misteriosa,Juan
+Perro,Rocky,Terrier,Macho,Blanco,Curioso,María
+Perro,Luna,Border Collie,Hembra,Negro,Trabajadora,Carlos
+Gato,Simba,Burmese,Macho,Marrón,Afectuoso,Ana
+Perro,Max,Dachshund,Macho,Marrón,Travieso,Diego
+Gato,Bella,Birman,Hembra,Blanco,Sereno,Marta
+Perro,Luna,Pomeranian,Hembra,Blanco,Elegante,Pedro
+Perro,Buddy,Bullmastiff,Macho,Marrón,Amistoso,Elena
+Gato,Leo,Turkish Van,Macho,Blanco,Juguetón,Pablo
+Perro,Max,Shar Pei,Macho,Gris,Leal,Andrea
+Gato,Luna,Siamese,Hembra,Marrón,Sociable,Sofía
+Perro,Rocky,Samoyed,Macho,Blanco,Alegre,David
+Perro,Bella,Maltese,Hembra,Blanco,Mimado,Laura
+Gato,Whiskers,Exotic Shorthair,Macho,Gris,Curioso,Juan
+Perro,Luna,Pug,Hembra,Beige,Juguetona,María
+Perro,Max,Australian Shepherd,Macho,Tricolor,Enérgico,Carlos
+Gato,Nala,Cornish Rex,Hembra,Blanco,Tierno,Ana
+Perro,Rocky,Siberian Husky,Macho,Gris,Independiente,Diego
+Gato,Luna,Devon Rex,Hembra,Blanco,Curioso,Marta
